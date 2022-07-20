@@ -1,7 +1,7 @@
 # How to Unlock the Bootloader
-**Author**: Paulo José Amaro @paulotwain
-**Version**: 0.1.0
-**Created**: 2022.07.17
+**Author**: Paulo José Amaro @paulotwain  
+**Version**: 0.1.0  
+**Created**: 2022.07.17  
 **Last Editing**: 2022.07.18
 
 ## Translations
@@ -10,7 +10,7 @@
 ## About
 This article will guide you on how to unlock the Bootloader on your Android device, and is part of the [POCO F4 GT - Docs](README.md) project.
 
-It's tested and recommended for POCO F4 GT phones, and is intended for begginers.
+It's intended for begginers, and tested on a POCO F4 GT phone.
 
 If you're new to unlocking the bootloader, please read the README section [Unlocking the Bootloader](README.md#unlocking-the-bootloader) to know more about Unlocking before continuing.
 

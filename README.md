@@ -1,10 +1,10 @@
 # POCO F4 GT - Docs
 **Description**: Guides on Bootloader Unlock, Custom ROM, Root and Battery Optimization for POCO F4 GT.
 
-**Author**: Paulo José Amaro @paulotwain
-**Version**: 0.1.0
-**Created**: 2022.07.17
-**Last Editing**: 2022.07.18
+**Author**: Paulo José Amaro @paulotwain  
+**Version**: 0.1.0  
+**Created**: 2022.07.17  
+**Last Editing**: 2022.07.20
 
 ## Translations
 - [Versão em Português](pt/README.md)
@@ -34,22 +34,22 @@ If you want to install a custom ROM, or Root your phone, the first thing to do i
 	- [How to Unlock](#how-to-unlock)
 - [Installing a Custom ROM](#installing-a-custom-rom)
 - [Rooting Android](#rooting-android)
-- [Optimizing Battery](#optimizing-battery)
+- [Optimizing Battery Life](#optimizing-battery-life)
 
 
 ## Unlocking the Bootloader
-**Short:** Xiaomi locks the Bootloader. You need to ask for permission using a Mi account and a SIM card, and wait 7 days to unlock the phone. Check [How to Unlock the Bootloader](<how-to-unlock-the-bootloader.md>).
+**Short:** Xiaomi locks the Bootloader. You need to ask for permission using a Mi account and a SIM card, and wait 7 days to unlock the phone. Check [How to Unlock the Bootloader](how-to-unlock-the-bootloader.md).
 
 ### What's the Bootloader?
-The Bootloader is the first thing to run when the phone turns on, before Android. The Bootloader is locked for security. If the phone is lost or stolen, a locked Bootloader ensures only Android can modify system files, so it can protect the system and user data from leak. The phone could still be factory reset and used, but all user data would be wiped, and Android reset, so personal data stays secure.
+The Bootloader is the first thing to run when the phone turns on, before Android. The Bootloader is locked for security. If the phone is lost or stolen, a locked Bootloader ensures only Android can modify system files, so it can protect apps and user data from leaking. The phone could still be factory reset and used by whoever has it, but without the password, user data stays safe, and the only possible thing is wipe everything.
 
 ### What's after unlocking?
 After unlocking the Bootloader, system files can be modified by the user, and the Android is considered **unprotected** because of that. But if the device is encripted, so Android asks for a password to unlock the phone, all user data will still be safe, even with an unlocked Bootloader. To protect user privacy, Android resets to factory settings, and **all user data is wiped** every time the Bootloader is locked or unlocked. Don't worry, it has to be done only once.
 
 ### What can I do with it?
-Being able to modify system files is a powerful thing. It can be used to swap the entire Android for some version made by the community, adding new features and security updates not included in the stock version. Check [Installing a Custom ROM](#installing-a-custom-rom.
+Being able to modify system files is a powerful thing. It can be used to swap the entire Android for some version made by the community, with new features and security updates not included in the stock version. Check [Installing a Custom ROM](#installing-a-custom-rom).
 
-It can also be used to Root the system, and the give admin permissions for apps, so they can change system files and perform actions normaly blocked by Android. Be careful, with great power comes great responsibility. Only give permissions to apps you trust. Check [Rooting Android](#rooting-android).
+It can also be used to Root the system, and the give admin permissions for apps, so they can change system files and perform actions normaly blocked by Android. Be careful, because with great power comes great responsibility. Only give Root permissions to apps you do trust. Check [Rooting Android](#rooting-android).
 
 ### How to Unlock?
 TODO
@@ -60,7 +60,7 @@ TODO
 ## Rooting Android
 TODO
 
-## Optimizing Battery
+## Optimizing Battery Life
 TODO
 
 
