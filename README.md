@@ -7,14 +7,16 @@
 **Last Editing**: 2022.07.20
 
 ## Translations
-- [Versão em Português](pt/README.md)
+- [Português](pt/README.md)
 
 ## About
 This project includes guides for:
 - [How to Unlock the Bootloader](how-to-unlock-the-bootloader.md)
 - [How to Install a Custom ROM](how-to-install-a-custom-rom.md)
 - [How to Root Android](how-to-root-android.md)
-- [How to Optimize Battery](how-to-optimize-battery.md)
+- Battery Optimization
+	- [How to Use KonaBess](how-to-use-konabess.md)
+	- [How to Fix CPU Wasting](how-to-fix-cpu-wasting.md)
 
 It's tested and recommended for POCO F4 GT devices, and it's intended for begginers.
 
@@ -24,9 +26,9 @@ It assumes you're on stock MIUI with a locked Bootloader. If you're not sure if 
 
 If you want to install a custom ROM, or Root your phone, the first thing to do is unlocking the Bootloader.
 
-**Warning**: **All device data will be erased and Android will reset to factory settings after the final step of the Bootloader unlocking**. This guide will remind you when it's time to backup files before continuing. Just keep this in mind.
+**Warning**: All device data will be **erased** at the Bootloader Unlocking final step. Don't worry, this guide will tell you when it's time for a backup. Just keep that in mind.
 
-## Table of Contents
+## Contents
 - [Unlocking the Bootloader](#unlocking-the-bootloader)
 	- [What's the Bootloader](#whats-the-bootloader)
 	- [What's after unlocking](#whats-after-unlocking)

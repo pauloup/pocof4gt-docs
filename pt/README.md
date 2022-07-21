@@ -6,15 +6,17 @@
 **Criação**: 2022.07.17  
 **Última edição**: 2022.07.18
 
-## Idioma Original
-- [English Version](../README.md)
+## Idioma original
+- [English](../README.md)
 
 ## Sobre
 Esse projeto inclui guias de:
-- [Como Desbloquear o Bootloader](como-desbloquear-o-bootloader.md)
-- [Como Instalar uma Custom ROM](como-nstalar-uma-custom-rom.md)
-- [Como Fazer Root no Android](como-fazer-root-no-android.md)
-- [Como Otimizar Bateria](como-otimizar-bateria.md)
+- [Como desbloquear o Bootloader](como-desbloquear-o-bootloader.md)
+- [Como instalar uma Custom ROM](como-instalar-uma-custom-rom.md)
+- [Como fazer Root no Android](como-fazer-root-no-android.md)
+- Otimização de Bateria
+	- [Como usar o KonaBess](como-usar-o-konabess.md)
+	- [Como evitar desperdício de CPU](como-evitar-desperdicio-de-cpu.md)
 
 É indicado a iniciantes, e testado no celular POCO F4 GT.
 
@@ -24,17 +26,17 @@ Ele assume que o celular está na MIUI de fábrica e com o Bootloader bloqueado.
 
 Pra instalar uma custom ROM ou fazer Root no celular, a primeira coisa é desbloquear o Bootloader.
 
-**Aviso**: **Todos os dados do aparelho serão apagados ao final da última etapa do desbloqueio de Bootloader**. Esse guia vai te lembrar de fazer backup dos arquivos antes de continuar. Só não se esqueça disso.
+**Aviso**: Todos os dados do aparelho serão **apagados** na etapa final do desbloqueio de Bootloader. Não se preocupe, esse guia vai dizer quando for o momento de fazer backup. Apenas esteja ciente.
 
 ## Índice
 - [Desbloqueando o Bootloader](#desbloqueando-o-bootloader)
 	- [O que é o Bootloader](#o-que-e-o-bootloader)
 	- [O que acontece depois de desbloquear](#o-que-acontece-depois-de-desbloquear)
 	- [O que posso fazer com isso](#o-que-posso-fazer-com-isso)
-	- [Como Desbloquear](#como-desbloquear)
+	- [Como desbloquear](#como-desbloquear)
 - [Instalando uma Custom ROM](#instalando-uma-custom-rom)
 - [Fazendo Root no Android](#fazendo-root-no-android)
-- [Otimizando Bateria](#otimizando-bateria)
+- [Otimizando a bateria](#otimizando-a-bateria)
 
 ## Desbloqueando o Bootloader
 **Resumo:** A Xiaomi bloqueia o Bootloader. Você precisa pedir permissão usando uma conta Mi e um chip SIM, e aguardar 7 dias para desbloquear o celular. Acesse [Como Desbloquear o Bootloader](como-desbloquear-o-bootloader.md).
@@ -50,7 +52,7 @@ Ser capaz de modificar arquivos do sistema é uma coisa poderosa. Isso permite t
 
 Isso também permite fazer Root e dar permissões de admin a apps, para que eles possam alterar arquivos do sistema ou executar ações normalmente bloqueadas. Tenha cuidado, pois com grandes poderes vêm grandes responsabilidades. Só dê permissões de Root a aplicativos que você confia. Acesse [Fazendo Root no Android](#fazendo-root-no-android)
 
-### Como Desbloquear?
+### Como desbloquear?
  TODO
 
 ## Instalando uma Custom ROM

@@ -1,11 +1,12 @@
 # KonaBess Config file
-This file is used in the guide for [How to Use Konabess for GPU Overclock and Undervolt](../../how-to-optimize-battery.md#gpu-overclock-and-undervolt).
+This file is used in the guide for [How to Use Konabess](how-to-use-konabess.md).
 
 ## Download
-Link: [KonaBess config for POCO F4 GT (.txt)](files/konabess.config-by.luki2411-for.pocof4gt.txt)
+Link: [KonaBess config (.txt)](https://github.com/pauloup/pocof4gt-docs/raw/main/files/konabess.config-by.luki2411-for.pocof4gt.txt)
 
-## File Details
+## Details
 **Filename**: "konabess.config-by.luki2411-for.pocof4gt.txt"  
+**Original filename**: "konabess-0630180044.txt"  
 **Author**: "A4b6 1.8t" @Luki2411  
 **Date**: 2022.06.30  
 **Via**: "Grofor" @grofor, "Matt" @astronomy216  
@@ -13,6 +14,9 @@ Link: [KonaBess config for POCO F4 GT (.txt)](files/konabess.config-by.luki2411-
 
 ## About
 Original comment by Matt in the source post:
+
+> ( konabess-0630180044.txt )
+> 
 > Snapdragon 8G1 OC + UV Config 831MHz-150MHz Max Undervolt  and lowest 150MHz for best battery possible.
 > 
 > Frequency table was optimaze for better performance and less throttling and less performance drop and battery SOT as well.
