@@ -2,7 +2,7 @@
 **Autor**: Paulo José Amaro @paulotwain  
 **Versão**: 0.1.0  
 **Criação**: 2022.07.17  
-**Última edição**: 2022.07.20
+**Última edição**: 2022.07.21
 
 ## Idioma original
 - English: [How To Use KonaBess](../how-to-use-konabess.md)

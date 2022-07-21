@@ -2,7 +2,7 @@
 **Author**: Paulo José Amaro @paulotwain  
 **Version**: 0.1.0  
 **Created**: 2022.07.17  
-**Last Editing**: 2022.07.20
+**Last Editing**: 2022.07.21
 
 ## Translations
 - Português do Brasil: [Como usar o KonaBess](pt-br/como-usar-o-konabess.md)
