@@ -71,7 +71,7 @@ Type "**GPU Stock Backup**" in the text field, and Tap **CONFIRM**. This message
 ![](images/guide-konabess-step08.png)
 
 ### Step 9
-Open the **Files** app to confirm if there's a new "**konabess-xxx.txt**" file in **Storage**, where "xxx" is a long number. You don't have to do anything with this file, just keep it safe in case you need it. The long number is just current time in "month day hour minute second" format.
+Open the **Files** app to confirm if there's a new "**konabess-\*\*\*.txt**" file in **Storage**, where **\*\*\*** is a long number. You don't have to do anything with this file, just keep it safe in case you need it. The long number is just current time in "month day hour minute second" format.
 
 ![](images/guide-konabess-step09.png)
 
@@ -127,7 +127,7 @@ Franco Kernel Manager will be needed for the [How to Fix CPU Wasting](how-to-fix
 
 ## How to Revert?
 ### The Easy Way
-To undo the changes, you can use KonaBess with the option "**Import from file**" from [Step 10](#step-10) to select the backup file "**konabess-xxx.txt**" saved in [Step 7](#step-7). Then tap "**REPACK AND FLASH NEW IMAGE**", and reboot the phone.
+To undo the changes, you can use KonaBess with the option "**Import from file**" from [Step 10](#step-10) to select the backup file "**konabess-\*\*\*.txt**" saved in [Step 7](#step-7). Then tap "**REPACK AND FLASH NEW IMAGE**", and reboot the phone.
 
 ### The Hard Way
 Another advanced option to revert to stock values is using ADB to flash the "**vendor_boot.img**" partition backup saved in [Step 3](#step-3):

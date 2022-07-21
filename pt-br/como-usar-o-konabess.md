@@ -72,7 +72,7 @@ Digite "**GPU Stock Backup**" no campo de texto e toque em **CONFIRM**. Essa men
 ![](imagens/guia-konabess-passo08.png)
 
 ### Passo 9
-Abra o app **Arquivos** para confirmar se há um novo arquivo "**konabess-\*\*\*.txt**" em **Dispositivo**, onde \*\*\* é um número longo. Você não precisa fazer nada com esse arquivo, apenas mantenha-o seguro caso precise. O número longo é apenas a hora atual no formato "mês dia hora minuto segundo".
+Abra o app **Arquivos** para confirmar se há um novo arquivo "**konabess-\*\*\*.txt**" em **Dispositivo**, onde **\*\*\*** é um número longo. Você não precisa fazer nada com esse arquivo, apenas mantenha-o seguro caso precise. O número longo é apenas a hora atual no formato "mês dia hora minuto segundo".
 
 ![](imagens/guia-konabess-passo09.png)
 
@@ -128,7 +128,7 @@ O Franco Kernel Manager será necessário no guia [Como evitar desperdício de C
 
 ## Como reverter?
 ### Jeito fácil
-Para desfazer as modificações, você pode usar o KonaBess com a opção "**Import from file**" do [Passo 10](#passo-10) para selecionar o arquivo de backup "**konabess-xxx.txt**" salvo no [Passo 7](#passo-7). Depois toque em "**REPACK AND FLASH NEW IMAGE**" e reinicie o celular.
+Para desfazer as modificações, você pode usar o KonaBess com a opção "**Import from file**" do [Passo 10](#passo-10) para selecionar o arquivo de backup "**konabess-\*\*\*.txt**" salvo no [Passo 7](#passo-7). Depois toque em "**REPACK AND FLASH NEW IMAGE**" e reinicie o celular.
 
 ### Jeito difícil
 Outra opção avançada para voltar aos valores de fábrica é usar o ADB para fazer flash do backup da partição "**vendor_boot.img**" salvo no [Passo 3](#passo-3):
