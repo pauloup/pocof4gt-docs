@@ -4,7 +4,7 @@
 **Author**: Paulo José Amaro @paulotwain  
 **Version**: 0.1.0  
 **Created**: 2022.07.17  
-**Last Editing**: 2022.07.20
+**Last Editing**: 2022.07.21
 
 ## Translations
 - [Português do Brasil](pt-br/README.md)
