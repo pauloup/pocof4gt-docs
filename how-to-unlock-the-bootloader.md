@@ -5,7 +5,7 @@
 **Last Editing**: 2022.07.18
 
 ## Translations
-- [Versão em Português](pt/como-desbloquear-o-bootloader.md)
+- Português do Brasil: [Como desbloquear o Bootloader](pt-br/como-desbloquear-o-bootloader.md)
 
 ## About
 This article will guide you on how to unlock the Bootloader on your Android device, and is part of the [POCO F4 GT - Docs](README.md) project.

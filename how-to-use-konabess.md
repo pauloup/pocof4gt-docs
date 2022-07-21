@@ -5,7 +5,7 @@
 **Last Editing**: 2022.07.20
 
 ## Translations
-- Português: [Como usar o KonaBess](pt/como-usar-o-konabess.md)
+- Português do Brasil: [Como usar o KonaBess](pt-br/como-usar-o-konabess.md)
 
 ## About
 This article will guide you on how to use the KonaBess app for GPU overclock and undervolt, and is part of the [POCO F4 GT - Docs](README.md) project.
@@ -91,29 +91,33 @@ Tap **OK** to confirm the importing.
 ![](images/guide-konabess-step12.png)
 
 ### Step 13
-Optional: The next step will be to apply the changes, so if you want to check how is the GPU before that, you can open **Franco Kernel Manager**, grant Root permissions, and tap **GPU** to open the GPU Control settings. The **Minimum** and **Maximum GPU Frequency** should be reading the stock values of **220 MHz** and **734 MHz**. These values will change after the final step.
+Optional: The next step will be applying the changes, so if you want to check how is the GPU before that, you can open **Franco Kernel Manager**, grant Root permissions, and tap **GPU** to open the GPU Control settings. The **Maximum** and **Minimum GPU Frequency** should be reading the stock values of **734 MHz** and **220 MHz**. These values will change after the final step.
 
 ![](images/guide-konabess-step13.png)
 
 ### Step 14
-Final: Back to KonaBess, tap **REPACK AND FLASH NEW IMAGE** to apply the changes.
+**Final Step**: It's time to apply the GPU changes. Back to KonaBess, tap **REPACK AND FLASH NEW IMAGE**. KonaBess will take care of everything, and do it quickly, just don't leave the app until it's finished.
 
 ![](images/guide-konabess-step14.png)
 
 ### Step 15
-KonaBess will show some info while applying the changes, and ask to reboot the phone at the end. Tap **YES**.
+KonaBess will show some info while applying the changes, and ask to reboot the phone at the end. Tap **YES**, or reboot manually when you're ready.
 
 ![](images/guide-konabess-step15.png)
 
 ### Step 16
-Optional: After the phone boot, to check if the changes are applied successfully, open **Franco Kernel Manager**, and tap **GPU** to open the GPU Control settings. Now **Minimum** and **Maximum GPU Frequency** should be reading the new values of **150 MHz** and **810 MHz**.
+Optional: After the phone boot, to check if the changes are applied successfully, open **Franco Kernel Manager**, and tap **GPU** to open the GPU Control settings. Now **Maximum** and **Minimum GPU Frequency** should be reading the new values of **810 MHz** and **150 MHz**.
 
 ![](images/guide-konabess-step16.png)
 
-Notice that if you tap the frequencies on Franco Kernel Manager, it's possible to select other frequencies. This is not recommended though, because the system will adjust them by itself. Interestingly, you can select the maximum frequency of 831 MHz, but it'll always revert to 810 MHz. It seems that MIUI limits the GPU maximum frequency to the second biggest one. Sometimes it gets down to 720 MHz. Don't worry, that's normal.
+Notice that if you tap the frequencies on Franco Kernel Manager, you can change them. But this is not necessary, because the system will adjust them by itself.
+
+Interestingly, if you select the maximum frequency of 831 MHz, it'll always revert to 810 MHz. It seems that MIUI limits the GPU maximum frequency to the second biggest one. Sometimes it gets down to 720 MHz. Don't worry, that's normal.
 
 ## What Next?
-The GPU is now working with more efficient frequencies, and that's the Overclock and Undervolt process goal. You should notice an improvement in battery life, specially during light usage. It should also give a slight higher GPU score on benchmark apps like AnTuTu.
+The GPU is now working with more efficient frequencies, and that's the Overclock and Undervolt process goal.
+
+You should notice an improvement in battery life, specially during light usage. It should also give a slight higher GPU score on benchmark apps like AnTuTu.
 
 You can uninstall KonaBess if you want to, because the changes are permanent to the system, and the app don't need to be running.
 

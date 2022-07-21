@@ -5,7 +5,7 @@
 **Last Editing**: 2022.07.18
 
 ## Translations
-- [Versão em Português](pt/como-fazer-root-no-android.md)
+- Português do Brasil: [Como fazer Root no Android](pt-br/como-fazer-root-no-android.md)
 
 ## About
 This article will guide you on how to Root your Android device, and is part of the [POCO F4 GT - Docs](README.md) project.

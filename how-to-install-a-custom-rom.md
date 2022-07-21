@@ -5,7 +5,7 @@
 **Last Editing**: 2022.07.18
 
 ## Translations
-- [Versão em Português](pt/como-instalar-uma-custom-rom.md)
+- Português do Brasil: [Como instalar uma Custom ROM](pt-br/como-instalar-uma-custom-rom.md)
 
 ## About
 This article will guide you on how to install a Custom ROM on your Android device, and is part of the [POCO F4 GT - Docs](README.md) project.

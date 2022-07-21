@@ -7,7 +7,7 @@
 **Last Editing**: 2022.07.20
 
 ## Translations
-- [Português](pt/README.md)
+- [Português do Brasil](pt-br/README.md)
 
 ## About
 This project includes guides for:
@@ -36,7 +36,7 @@ If you want to install a custom ROM, or Root your phone, the first thing to do i
 	- [How to Unlock](#how-to-unlock)
 - [Installing a Custom ROM](#installing-a-custom-rom)
 - [Rooting Android](#rooting-android)
-- [Optimizing Battery Life](#optimizing-battery-life)
+- [Optimizing the Battery](#optimizing-the-battery-life)
 
 
 ## Unlocking the Bootloader
@@ -62,7 +62,7 @@ TODO
 ## Rooting Android
 TODO
 
-## Optimizing Battery Life
+## Optimizing the Battery
 TODO
 
 

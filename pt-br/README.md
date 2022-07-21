@@ -53,10 +53,10 @@ Ser capaz de modificar arquivos do sistema é uma coisa poderosa. Isso permite t
 Isso também permite fazer Root e dar permissões de admin a apps, para que eles possam alterar arquivos do sistema ou executar ações normalmente bloqueadas. Tenha cuidado, pois com grandes poderes vêm grandes responsabilidades. Só dê permissões de Root a aplicativos que você confia. Acesse [Fazendo Root no Android](#fazendo-root-no-android)
 
 ### Como desbloquear?
- TODO
+#TODO
 
 ## Instalando uma Custom ROM
- TODO
+ #TODO
 
 ## Fazendo Root no Android
  TODO

@@ -1,5 +1,5 @@
 # KonaBess Config file
-This file is used in the guide for [How to Use Konabess](how-to-use-konabess.md).
+This file is used in the [How to Use Konabess](how-to-use-konabess.md) guide.
 
 ## Download
 Link: [KonaBess config (.txt)](https://github.com/pauloup/pocof4gt-docs/raw/main/files/konabess.config-by.luki2411-for.pocof4gt.txt)
@@ -28,4 +28,4 @@ Original comment by Matt in the source post:
 > Power consumption -37% and performance increase +5% on 831MHz.
 > https://t.me/adreno_konabess/226865
 > 
-> Use Konabess app to import txt.
+> Use Konabess app to import txt
