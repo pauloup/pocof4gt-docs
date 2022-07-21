@@ -5,12 +5,12 @@
 **Última edição**: 2022.07.20
 
 ## Idioma original
-- English Version: [How To Use KonaBess](../how-to-use-konabess.md)
+- English: [How To Use KonaBess](../how-to-use-konabess.md)
 
 ## Sobre
 Este artigo vai te guiar em como usar o app KonaBess para fazer overclock e undervolt de GPU, e faz parte do projeto [POCO F4 GT - Docs](README.md).
 
-É indicado a iniciantes e foi testado em um celular POCO F4 GT.
+É indicado a iniciantes e foi testado no celular POCO F4 GT.
 
 Acesse [Otimizando a bateria](README.md#otimizando-a-bateria) para saber mais sobre como este guia pode ser útil.
 
@@ -92,7 +92,7 @@ Toque em **OK** para confirmar a importação.
 ![](images/guia-konabess-passo12.png)
 
 ### Passo 13
-Opcional: A próxima etapa será aplicar as alterações, portanto, se você quiser verificar como está a GPU antes disso, abra o **Franco Kernel Manager**, conceda acesso Root, e toque em **GPU** para abrir as opções de GPU Control. **Minimum** e **Maximum GPU Frequency** devem mostrar os valores de fábrica de **220 MHz** e **734 MHz**. Esses valores serão alterados após o passo final.
+Opcional: A próxima etapa será aplicar as alterações, portanto, se você quiser verificar como está a GPU antes disso, abra o **Franco Kernel Manager**, conceda acesso Root, e toque em **GPU** para abrir as opções de GPU Control. **Maximum** e **Minimum GPU Frequency** devem mostrar os valores de fábrica de **791 MHz** e **220 MHz**. Esses valores serão alterados após o passo final.
 
 ![](images/guia-konabess-passo13.png)
 
@@ -107,7 +107,7 @@ O KonaBess mostrará algumas informações ao aplicar as alterações e pedirá 
 ![](images/guia-konabess-passo15.png)
 
 ### Passo 16
-Opcional: Quando o celular reiniciar, para verificar se as alterações foram aplicadas com sucesso, abra o **Franco Kernel Manager** e toque em **GPU** para abrir as configurações de controle de GPU. Agora **Minimum** e **Maximum GPU Frequency** devem mostrar os novos valores de **150 MHz** e **810 MHz**.
+Opcional: Quando o celular reiniciar, para verificar se as alterações foram aplicadas com sucesso, abra o **Franco Kernel Manager** e toque em **GPU** para abrir as configurações de controle de GPU. Agora **Maximum** e **Minimum GPU Frequency** devem mostrar os novos valores de **810 MHz** e **150 MHz**.
 
 ![](images/guia-konabess-passo16.png)
 

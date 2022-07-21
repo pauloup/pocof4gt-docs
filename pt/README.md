@@ -61,7 +61,7 @@ Isso também permite fazer Root e dar permissões de admin a apps, para que eles
 ## Fazendo Root no Android
  TODO
 
-## Otimizando Bateria
+## Otimizando a bateria
  TODO
 
 
