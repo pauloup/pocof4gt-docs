@@ -2,7 +2,7 @@
 This file is used in the [How to Use Konabess](how-to-use-konabess.md) guide.
 
 ## Download
-Link: [KonaBess config (.txt)](https://github.com/pauloup/pocof4gt-docs/raw/main/files/konabess.config-by.luki2411-for.pocof4gt.txt)
+Link: [KonaBess config (.txt)](https://github.com/pauloup/pocof4gt-docs/raw/main/files/konabess.config-by.luki2411-for.snapdragon8gen1.txt)
 
 ## Details
 **Filename**: "konabess.config-by.luki2411-for.pocof4gt.txt"  
