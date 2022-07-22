@@ -139,7 +139,7 @@ Another advanced option to revert to stock values is using ADB to flash the "**v
     
 	`fastboot flash vendor_boot_a "vendor_boot.img"`
 	
-	`fastoboot flash vendor_boot_b "vendor_boot.img"`
+	`fastboot flash vendor_boot_b "vendor_boot.img"`
 	
 	`fastboot reboot`
 

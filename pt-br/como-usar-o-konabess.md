@@ -140,7 +140,7 @@ Outra opção avançada para voltar aos valores de fábrica é usar o ADB para f
       
 	`fastboot flash vendor_boot_a "vendor_boot.img"`
     
-    `fastoboot flash vendor_boot_b "vendor_boot.img"`
+    `fastboot flash vendor_boot_b "vendor_boot.img"`
     
     `fastboot restart`
 
