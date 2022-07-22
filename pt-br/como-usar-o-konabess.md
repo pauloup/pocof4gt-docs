@@ -111,9 +111,7 @@ O KonaBess mostrará algumas informações enquanto aplica as modificações e p
 
 ![](imagens/guia-konabess-passo16.png)
 
-Note que se você tocar nas frequências no Franco Kernel Manager, é possível troca-las. Mas isso não é necessário, porque o sistema irá ajustá-las sozinho.
-
-Curiosamente, se você selecionar a frequência máxima de 831 MHz, ela sempre voltará a 810 MHz. Parece que a MIUI limita a frequência máxima da GPU à segunda maior. Às vezes ela diminui pra 720 MHz. Não se preocupe, isso é normal.
+**Atenção**: Não modifique essas frequências. Elas são controladas pelo sistema. Além disso, a última versão do Franco Kernel Manager é antiga e pode introduzir bugs por não ter sido testada no processador Snapdragon 8 Gen 1.
 
 ## E depois?
 Agora a GPU está trabalhando com frequências mais eficientes, e esse é o objetivo do processo de overclock e undervolt. 

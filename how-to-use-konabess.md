@@ -110,9 +110,7 @@ Optional: After the phone boot, to check if the changes are applied successfully
 
 ![](images/guide-konabess-step16.png)
 
-Notice that if you tap the frequencies on Franco Kernel Manager, you can change them. But this is not necessary, because the system will adjust them by itself.
-
-Interestingly, if you select the maximum frequency of 831 MHz, it'll always revert to 810 MHz. It seems that MIUI limits the GPU maximum frequency to the second biggest one. Sometimes it gets down to 720 MHz. Don't worry, that's normal.
+**Warning**: Do not change these frequencies. They are controlled by the system. Also, the Franco Kernel Manager latest version is too old, and may introduce bugs for the lack of testing on the Snapdragon 8 Gen 1 processor.
 
 ## What Next?
 The GPU is now working with more efficient frequencies, and that's the Overclock and Undervolt process goal.
