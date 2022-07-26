@@ -24,7 +24,7 @@ Acesse [Otimizando a bateria](README.md#otimizando-a-bateria) para saber como o 
 
 ## Você precisa
 - **Root**. Acesse [Fazendo Root no Android](README.md#fazendo-root-no-android).
-- [**KonaBess**](https://github.com/libxzr/KonaBess/releases/tag/v0.16), do GitHub. Acesse [Como instalar apps de fontes desconhecidas](como-instalar-apps-de-fontes-desconhecidas). Esse guia usa a versão 0.16 beta. Outras versões podem funcionar diferente.
+- [**KonaBess 0.16 beta**](https://github.com/libxzr/KonaBess/releases/tag/v0.16), do GitHub. Acesse [Como instalar apps de fontes desconhecidas](como-instalar-apps-de-fontes-desconhecidas). É extremamente recomendado usar apenas a versão 0.16 beta. Outras versões, inclusive mais recentes, podem não funcionar e até causar problemas no sistema.
 - Baixe o arquivo [**Config KonaBess**](arquivo-config-konabess.md) e deixe ele na pasta de Download.
 - [**Franco Kernel Manager**](https://play.google.com/store/apps/details?id=com.franco.kernel), da Play Store. Opcional pra verificar o sucesso desse guia, mas será necessário no guia [Como evitar desperdício de CPU](como-evitar-desperdicio-de-cpu.md), então é recomendado.
 - App **Arquivos**, incluso na MIUI.
@@ -111,7 +111,7 @@ O KonaBess mostrará algumas informações enquanto aplica as modificações e p
 
 ![](imagens/guia-konabess-passo16.png)
 
-**Atenção**: Não modifique essas frequências. Elas são controladas pelo sistema. Além disso, a última versão do Franco Kernel Manager é antiga e pode introduzir bugs por não ter sido testada no processador Snapdragon 8 Gen 1.
+**Atenção**: Não modifique essas frequências. Elas são controladas pelo sistema e edita-las pode gerar instabilidade. Se apesar disso, você decidir editar essa ou outras opções, é recomendado usar apesar o Franco Kernel Manager. Usar mais um app de customização de kernel ao mesmo tempo pode causar problemas no sistema que só são reversíveis com reset total, fazendo flash da MIUI stock.
 
 ## E depois?
 Agora a GPU está trabalhando com frequências mais eficientes, e esse é o objetivo do processo de overclock e undervolt. 

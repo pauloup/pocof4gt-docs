@@ -24,7 +24,7 @@ Check [Optimizing Battery](README.md#optimizing-battery) to know more about how 
 
 ## You Need
 - **Root**. Check [Rooting Android](README.md#rooting-android).
-- [**KonaBess**](https://github.com/libxzr/KonaBess/releases/tag/v0.16) from GitHub. Check [How to install apps from other sources](how-to-install-apps-from-other-sources.md). This guide uses the version 0.16 beta. Other versions may work differently.
+- [**KonaBess**](https://github.com/libxzr/KonaBess/releases/tag/v0.16) from GitHub. Check [How to install apps from other sources](how-to-install-apps-from-other-sources.md). It's strongly recommended to use only version 0.16 beta. Other versions, including more recent ones, may not work, and cause system issues.
 - Download the [**KonaBess config**](file-konabess.config.md) file, and keep it in the Download folder.
 - [**Franco Kernel Manager**](https://play.google.com/store/apps/details?id=com.franco.kernel), from Play Store. Optional for checking success of this guide, but it'll be required in the [How to Fix CPU Wasting](how-to-fix-cpu-wasting.md) guide, so it's recommended.
 - **Files** app, included in MIUI.
@@ -110,7 +110,7 @@ Optional: After the phone boot, to check if the changes are applied successfully
 
 ![](images/guide-konabess-step16.png)
 
-**Warning**: Do not change these frequencies. They are controlled by the system. Also, the Franco Kernel Manager latest version is too old, and may introduce bugs for the lack of testing on the Snapdragon 8 Gen 1 processor.
+**Warning**: Do not change these frequencies. They are controlled by the system, and changing them may cause instability. If you still decide to change these or other configs, it's recommended to use only Franco Kernel Manager. Using more than one app for kernel tunning at once can cause serious system issues, only reversible thought a full reset reflashing MIUI stock.
 
 ## What Next?
 The GPU is now working with more efficient frequencies, and that's the Overclock and Undervolt process goal.
