@@ -4,6 +4,7 @@
 - [ ] Guide "How to Install a Custom ROM"
 - [ ] Guide "How to Root Android"
 - [ ] Guide "How to Fix CPU Wasting"
+- [ ] Guide "How to Debloat"
 - [ ] App suggestions
 	- [ ] AdAway
 	- [ ] YouTube Vanced
@@ -31,6 +32,7 @@
 	- [ ] Guia "Como instalar uma Custom ROM"
 	- [ ] Guia "Como fazer Root no Android"
 	- [ ] Guia "Como evitar desperdício de CPU"
+	- [ ] Guia "Como remover apps inúteis do sistema"
 
 ## In Progress
 - [ ] README

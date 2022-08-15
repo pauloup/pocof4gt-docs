@@ -14,6 +14,7 @@ This project includes guides for:
 - [How to Unlock the Bootloader](how-to-unlock-the-bootloader.md)
 - [How to Install a Custom ROM](how-to-install-a-custom-rom.md)
 - [How to Root Android](how-to-root-android.md)
+- [How to Debloat](how-to-debloat.md)
 - Battery Optimization
 	- [How to Use KonaBess](how-to-use-konabess.md)
 	- [How to Fix CPU Wasting](how-to-fix-cpu-wasting.md)
