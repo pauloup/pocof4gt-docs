@@ -17,7 +17,7 @@ Se você está na MIUI Stock e quer instalar a Xiaomi.eu pela primeira vez, esse
 Reinicie o celular no modo Fastboot. Você pode desligar e depois apertar os botões Ligar e Aumentar Volume ao mesmo tempo.
 
 ### Passo 2
-Conectame o celular ao computador pelo cabo USB e confirme que ele foi reconhecido pelo ADB usando o comando: 
+Conecte o celular ao computador pelo cabo USB e confirme que ele foi reconhecido pelo ADB usando o comando: 
 ```
 fastboot devices
 ```
