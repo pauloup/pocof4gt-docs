@@ -44,7 +44,8 @@ Arraste a **seta azul** para iniciar a instalação.
 **Passo final**: Quando o processo terminar, toque em **Reboot System**. O sistema vai iniciar e a instalação foi concluída com sucesso.
 
 ### Passo 8
-**Opcional**: Se você tinha feito Root no sistema e/ou usou o KonaBess para modificar a GPU, é necessário refazer esses procedimentos. Depois disso, pode ser necessário corrigir apps que iniciam com o sistema e usam Root, como o Magisk (especialmente com a opção Hide, que muda o nome do pacote) ou o FKM. Para isso, desative e ative de novo a opção de "Inicio automático" na tela de Informações do app.
+**Opcional**: Se você tinha feito Root no sistema e/ou usou o KonaBess para modificar a GPU, é necessário refazer esses procedimentos. Depois disso, pode ser necessário corrigir apps que iniciam com o sistema e usam Root, como o Magisk (especialmente com a opção Hide, que muda o nome do pacote). Para isso, desative e ative de novo a opção de "Inicio automático" na tela de Informações do app. Ou refaça a processo de ocultação do Magisk e ative a opção de Inicio automático no app 
+com nome modificado. O app FKM também pode ter problemas pra aplicar configurações e scripts no início do sistema, e eu só consegui resolver reinstalando o app.
 
 
 
