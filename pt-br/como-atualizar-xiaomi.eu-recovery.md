@@ -2,14 +2,14 @@
 ## Sobre
 A Xiaomi.eu versão 13.0.11 lançada em 24/08/2022 é uma ROM Recovery, então é preciso usar o TWRP para instalação.
 
-Esse tutorial é indicado se você está em uma versão anterior da Xiaomi.eu instalada por script no Fastboot, e quer atualizar para a 13.0.11 versão Recovery, mas sem instalar o TWRP no celular.
+Esse guia é indicado se você está na Xiaomi.eu instalada por script no Fastboot, e quer atualizar para a versão 13.0.11 Recovery, mas sem instalar o TWRP no celular.
 
 Se você está na MIUI Stock e quer instalar a Xiaomi.eu pela primeira vez, esse tutorial não tem todos os passos e não é indicado.
 
 ## Você precisa
 - Estar na Xiaomi.eu com Bootloader desbloqueado.
 - Ter Depuração ADB ativa e Fastboot funcionando corretamente no computador.
-- Baixar a ROM da [Xiaomi.eu 13.0.11](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_INGRES_V13.0.11.0.SLJCNXM_v13-12.zip/download) no celular.
+- Baixar a [ROM da Xiaomi.eu 13.0.11](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_INGRES_V13.0.11.0.SLJCNXM_v13-12.zip/download) no celular.
 - Baixar o [TWRP pro ingres versão Boot](https://dl.akr-developers.com/?file=skkk/TWRP/A12/v5.6_A12/%5BBOOT%5D3.6.2_12-RedmiK50G_v5.6_A12-ingres-skkk_427a1bbc.zip) no computador.
 
 ## Passo a Passo
