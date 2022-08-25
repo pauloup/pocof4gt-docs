@@ -12,6 +12,7 @@
 	- [ ] Battery Log
 	- [ ] AccuBattery
 	- [ ] GSam Battery Manager
+	- [ ] Franco Kernel Manager
 	- [ ] Greenify
 	- [ ] Bitwarden
 	- [ ] DiskUsage
@@ -27,6 +28,10 @@
 	- [ ] Wave Editor
 	- [ ] MotionCam
 	- [ ] mcpro24fps
+	- [ ] Digital Wellbeing
+	- [ ] Simple System Monitor
+	- [ ] Cool Tool
+	- [ ] Digital Wellbeing / Screen Time
 - [ ] Portuguese translation
 	- [ ] Guia "Como desbloquear o Bootloader"
 	- [ ] Guia "Como instalar uma Custom ROM"
@@ -38,6 +43,7 @@
 - [ ] README
 - [ ] Guide "How to Unlock the Bootloader"
 - [ ] Portuguese translation
+- [ ] Walt Scheduler
 
 ## Done ✓
 - [x] Guide "How to Use KonaBess"

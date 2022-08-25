@@ -18,6 +18,8 @@ This project includes guides for:
 - Battery Optimization
 	- [How to Use KonaBess](how-to-use-konabess.md)
 	- [How to Fix CPU Wasting](how-to-fix-cpu-wasting.md)
+- App Suggestions
+	- [FKM - Franco Kernel Manager](app-fkm.md)
 
 It's tested and recommended for POCO F4 GT devices, and it's intended for begginers.
 
