@@ -13,7 +13,9 @@ The tests in this page uses full charges, so they create much stress on the batt
 ## About the Apps
 **Battery Log** collects battery data like time, level, temperature, voltage, and status, every time a battery event occour, like level changing, and charging star/end. It's a tool to help analysing the results.
 
-**AccuBattery**, **AnTuTu Benchmark**, **Franco Kernel Manager**, and **Battery Guru** are the apps put to test for estimating the actual current battery capacity.
+**AccuBattery**, **AnTuTu Benchmark**, **Battery Guru**, and **Franco Kernel Manager (FKM)** are the apps put to test for estimating the actual current battery capacity.
+
+To get valid results, enable the "dual cell battery" mode in each app, when available.
 
 ## About the Tests
 The tests are done by charging the phone using the stock USB cable, with the "Boost charging speed" option disable on MIUI settings, the screen off most of the time, WiFi and Bluetooth disabled, and almost all apps force closed using Greenify, except for the ones in test. This minimizes battery usage to get a full speed charging.
@@ -36,9 +38,9 @@ Plug:
 
 Charging:
 ```
-25% in  3m - 15:19:40
-50% in  7m - 15:23:32
-75% in 11m - 15:27:38
+ 25% in  3m - 15:19:40
+ 50% in  7m - 15:23:32
+ 75% in 11m - 15:27:38
 100% in 17m - 15:33:47
 FULL in 26m - 15:42:23
 ```
@@ -122,8 +124,8 @@ Interesting, but equality unreliable. Next app.
 ### Franco Kernel Manager v6.1.13
 Battery Capacity:
 ```
-Learned:   3972 mAh
-Health:    84%
+Learned: 3972 mAh
+Health:  84%
 ```
 
 FKM has the lowest estimative of 84% battery capacity, and it doesn't provide info about the time of charging session, so I can't assume how it could conclude my battery has loosen 16% of its capacity.
@@ -131,7 +133,7 @@ FKM has the lowest estimative of 84% battery capacity, and it doesn't provide in
 Something has gone really wrong here.
 
 ### Conclusion
-Just use AccuBattery and you're good to go.
+Use AccuBattery and you're good to go.
 
 ### Screenshots
 - Battery Log: [Screenshot 1](../../raw/main/images/battery-test-20220827-1-batterylog.jpg)
