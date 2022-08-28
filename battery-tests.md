@@ -138,6 +138,6 @@ Use AccuBattery and you're good to go.
 ### Screenshots
 - Battery Log: [Screenshot 1](../../raw/main/images/battery-test-20220827-1-batterylog.jpg)
 - AccuBattery: [Screenshot 1](../../raw/main/images/battery-test-20220827-2-accubattery.jpg)
-- AnTuTu Benchmark: [Screenshot 1](../../raw/main/images/battery-test-20220827-3-antutu-1.jpg), [Screenshot 2](../../raw/main/images/battery-test-20220827-3-antutu-2.jpg)
+- AnTuTu: [Screenshot 1](../../raw/main/images/battery-test-20220827-3-antutu-1.jpg), [Screenshot 2](../../raw/main/images/battery-test-20220827-3-antutu-2.jpg)
 - Battery Guru: [Screenshot 1](../../raw/main/images/battery-test-20220827-4-batteryguru-1.jpg), [Screenshot 2](../../raw/main/images/battery-test-20220827-4-batteryguru-2.jpg)
-- Franco Kennel Manager: [Screenshot 1](../../raw/main/images/battery-test-20220827-5-fkm-1.jpg), [Screenshot 2](../../raw/main/images/battery-test-20220827-5-fkm-2.jpg)
+- FKM: [Screenshot 1](../../raw/main/images/battery-test-20220827-5-fkm-1.jpg), [Screenshot 2](../../raw/main/images/battery-test-20220827-5-fkm-2.jpg)
