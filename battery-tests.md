@@ -29,41 +29,41 @@ Finally, when the battery reaches 100%, it's actually not really fully charged. 
 
 ### Battery Log
 
-> Plug
-> ```
-> 1% - 15:16:26
-> ```
-> 
-> Charging
-> ```
->  25% in  3m - 15:19:40
->  50% in  7m - 15:23:32
->  75% in 11m - 15:27:38
-> 100% in 17m - 15:33:47
-> FULL in 26m - 15:42:23
-> ```
->
-> Unplug
-> ```
-> 100% - 16:19:49
-> ```
+Plug:
+```
+1% - 15:16:26
+```
+
+Charging:
+```
+25% in  3m - 15:19:40
+50% in  7m - 15:23:32
+75% in 11m - 15:27:38
+100% in 17m - 15:33:47
+FULL in 26m - 15:42:23
+```
+
+Unplug:
+```
+100% - 16:19:49
+```
 
 Battery Log shows the charging toke 17 minutes to get from 1% to 100%, but 26 minutes to an actual FULL status.
 
 ### AccuBattery v2.0.1 beta
-> Charging Session
-> ```
-> Start: 15:16
-> End:   15:47
-> Total: 31m
-> ```
-> 
-> Battery Capacity
-> ```
-> Charged:   4396   mAh
-> Estimated: 4440.7 mAh
-> Health:    94%
-> ```
+Charging Session:
+```
+Start: 15:16
+End:   15:47
+Total: 31m
+```
+
+Battery Capacity:
+```
+Charged:   4396   mAh
+Estimated: 4440.7 mAh
+Health:    94%
+```
 
 AccuBattery estimates a 4440.7 mAh full charge, 94% of an ideal 4700 mAH battery capacity. It kept recording the charge added to the battery for 5 minutes after the FULL status. As the app states in [this page](https://accubattery.zendesk.com/hc/en-us/articles/209507189-Tab-3-battery-health-screen):
 
@@ -80,17 +80,17 @@ There's also the fact that it's a dual cell battery phone, so there's actually t
 AccuBattery was the app with the bigger battery capacity estimation, and it seems to be the most accurate. So it's is my recommendation for the Poco F4 GT.
 
 ### AnTuTu Benchmark v9.3.9
-> Charging Session
-> ```
-> End:   15:33
-> Total: 17m
-> ```
-> 
-> Battery Capacity
-> ```
-> Estimated: 4068 mAh
-> Health:    87%
-> ```
+Charging Session:
+```
+End:   15:33
+Total: 17m
+```
+
+Battery Capacity:
+```
+Estimated: 4068 mAh
+Health:    87%
+```
 
 AnTuTu doesn't actually tell the charged amount it considered, but comparing the End time with the Battery Log info, it seems to have counted the charge added only until the 100% status was reached.
 
@@ -99,19 +99,19 @@ Because of that, it doesn't seem reliable as a measure app for the battery capac
 Batteries charged once a day are expected to lose about 15% of capacity after one year. My phone is 3 months old, and always charged from 40% to 80%. It certainly didn't lose 13% capacity. Next app.
 
 ### Battery Guru v.1.9.31
-> Charging Session
-> ```
-> Start: 15:16:27
-> End:   16:19:48
-> Total: 1h 3m 20s
-> ```
-> 
-> Battery Capacity
-> ```
-> Charged:   4062.4 mAh
-> Estimated: 4103   mAh
-> Health:    88%
-> ```
+Charging Session:
+```
+Start: 15:16:27
+End:   16:19:48
+Total: 1h 3m 20s
+```
+
+Battery Capacity:
+```
+Charged:   4062.4 mAh
+Estimated: 4103   mAh
+Health:    88%
+```
 
 BatteryGuru gives pretty much the same result as AnTuTu. It just counted a little less of charge, end estimates a little more of capacity.
 
@@ -120,11 +120,11 @@ As AnTuTu, BatteryGuru certainly didn't count any charge past the 100% status, e
 Interesting, but equality unreliable. Next app.
 
 ### Franco Kernel Manager v6.1.13
-> Battery Capacity
-> ```
-> Learned:   3972 mAh
-> Health:    84%
-> ```
+Battery Capacity:
+```
+Learned:   3972 mAh
+Health:    84%
+```
 
 FKM has the lowest estimative of 84% battery capacity, and it doesn't provide info about the time of charging session, so I can't assume how it could conclude my battery has loosen 16% of its capacity.
 
