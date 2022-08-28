@@ -2,7 +2,7 @@
 Esse arquivo é usado no guia [Como usar o KonaBess](como-usar-o-konabess.md).
 
 ## Download
-Link: [Config KonaBess (.txt)](https://github.com/pauloup/pocof4gt-docs/raw/main/files/konabess.config-by.luki2411-for.snapdragon8gen1.txt)
+Link: [Config KonaBess (.txt)](../../../raw/main/files/konabess.config-by.luki2411-for.snapdragon8gen1.txt)
 
 ## Detalhes
 **Nome**: "konabess.config-by.luki2411-for.snapdragon8gen1.txt"  
