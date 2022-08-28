@@ -29,7 +29,7 @@ Finally, when the battery reaches 100%, it's actually not really fully charged. 
 ## 2022.08.27 Test
 ![](images/battery-test-20220827-0-chart.png)
 
-### Battery Log
+### Battery Log v2.0.3
 
 Plug:
 ```
