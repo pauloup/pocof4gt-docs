@@ -27,7 +27,7 @@ This is not hard science, and each app takes a different approach, and gives dif
 Finally, when the battery reaches 100%, it's actually not really fully charged. After that, it still continues to charge for many minutes, untill a FULL status is reached. It's interesting to see how apps do handle this, or don't.
 
 ## 2022.08.27 Test
-![](images/battery-test-20220827-0-chart.png)
+![](images/battery-test-20220827-0-overview.png)
 
 ### Battery Log v2.0.3
 
